@@ -1,6 +1,6 @@
 # Hydroponic A-Frame System (DFT / Hybrid NFT)
 
-![Hydroponic A-Frame System Showcase](Renders/rend 04.png)
+![Hydroponic A-Frame System Showcase](Renders/rend_04.png)
 
 This repository contains the 3D design models, technical specifications, and rendering assets for a scalable, vertical A-Frame hydroponic cultivation system. The architecture implements a Deep Flow Technique (DFT) / Hybrid NFT workflow designed to optimize water distribution, root oxygenation, and crop safety.
 
