@@ -1,6 +1,11 @@
 # Hydroponic A-Frame System (DFT / Hybrid NFT)
 
+![Hydroponic A-Frame System Showcase](Renders/rend_04.png)
+
 This repository contains the 3D design models, technical specifications, and rendering assets for a scalable, vertical A-Frame hydroponic cultivation system. The architecture implements a Deep Flow Technique (DFT) / Hybrid NFT workflow designed to optimize water distribution, root oxygenation, and crop safety.
+
+## Greenhouse Integration & Walk-In Access
+The A-frame system is engineered specifically to function as an integrated walk-in greenhouse unit rather than a standalone outdoor rack. The structural footprint and vertical layout are optimized to fit seamlessly inside a protected greenhouse enclosure while leaving sufficient aisle space. This design allows operators to physically enter the greenhouse environment, providing comfortable walk-in access for close crop monitoring, routine system maintenance, and efficient harvesting.
 
 ## Repository Structure
 
